@@ -115,7 +115,7 @@ main{
 .main-div div{
     border-radius: 20px;
     background-color: var(--Dark-blue);
-    padding: 20px;
+    padding: 20px
     position: relative;
     bottom:20px;
     span:nth-child(1){
